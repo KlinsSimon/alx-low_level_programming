@@ -1,6 +1,4 @@
-nclude <stdio.h>
-
-
+#include <stdio.h>
 
 /**
  *
@@ -9,8 +7,6 @@ nclude <stdio.h>
  *   *Return: Always 0 (Success)
  *
  *    */
-
-
 
 int main(void)
 
